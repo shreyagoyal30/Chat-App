@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyagoyal30/Namaste_React-Bootcamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shreyagoyal30/Namaste_React-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/shreyagoyal30/Namaste_React-Bootcamp#readme",
+  "description": ""
+}
